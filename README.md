@@ -19,12 +19,11 @@ Add Time Zones: Allow users to see the time in different time zones, making the 
 ##Challenges and Solutions
 
 The hardest part was figuring out how to change the time from 12-hour to 24-hour format correctly. I solved this by carefully working through the math involved and looking up examples online when I got stuck.
-Support Network Resources
 I’ve found some helpful resources, like:
+Support Network Resources
 Resources provided by my teacher.
 Forums like Stack Overflow to ask questions when I run into problems.
-
-##Feedback from friends to improve my code.
+Feedback from friends to improve my code.
 
 ##Transferable Skills
 
